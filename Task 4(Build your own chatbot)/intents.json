@@ -1,0 +1,30 @@
+{"intents":  [
+  {"tag":  "greetings",
+  "patterns":  ["Hello", "Hi", "Good day", "Greetings"],
+  "responses":  ["Hello!", "Hey!", "What can I do for you?"]
+  },
+  {"tag":  "hours",
+  "patterns":  ["when are you available", "what are your hours"],
+  "responses":  ["24/7"]
+  },
+  {"tag":  "Branches",
+  "patterns":  ["branches", "what are branches available", "how many branches are there", "which branches are available", "branches available"],
+  "responses":  ["DS, AI, CSE, MECH, CIVIL, ETC, EE, CYBERSECURITY and many more", "AI, EE, CSE, MECH, CIVIL, ETC, DS, CYBERSECURITY and many more", "MECH, CIVIL, ETC, EE, DS, AI, CSE,  CYBERSECURITY and many more"]
+  },
+  {"tag":  "New",
+  "patterns":  ["new branches", "upcoming branches"],
+  "responses":  ["Data Science, Artificial Intelligence, Cybersecurity", "Artificial Intelligence, Data Science, Cybersecurity", "Cybersecurity, Artificial Intelligence, Data Science"]
+  },
+  {"tag":  "Hostel",
+  "patterns":  ["hostel", "hostel fees"],
+  "responses":  ["9k per month onwards with all facilities available. For more info contact: 9689903225, 07104-236102", "85k per month onwards with all facilities available. For more info contact: 9689903225, 07104-236102"]
+  },
+  {"tag":  "About",
+  "patterns":  ["about college", "about raisoni", "about"],
+  "responses":  ["AICTE & DTE Approved, NAAC Accredited with A+ Grade with score of 3.5", "DTE & AICTE Approved, NAAC Accredited with A+ Grade with score of 3.5", "DTE & AICTE Approved, NAAC Accredited with A+ Grade with score of 3.5", "AICTE & DTE Approved, NAAC Accredited with score of 3.5 with A+ Grade"]
+  },
+  {"tag":  "Data Science",
+  "patterns":  ["about data science", "about ds", "data science", "ds"],
+  "responses":  ["Dean: Swapnili Karemore with 15+ years of experience\nClass Teacher: Priyanka Pitale\ndepartment with 3 patents\nMOU's with:\t1. genX Info Technologies Private limited and 2. KCyber Security.", "Dean: Swapnili Karemore with 15+ years of experience\nMOU's with:\t1. genX Info Technologies Private limited and 2. KCyber Security."]
+  }
+]}
